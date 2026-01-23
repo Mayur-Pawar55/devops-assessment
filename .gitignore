@@ -30,3 +30,9 @@ Thumbs.db
 #Key
 *.pub
 *.pem
+
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+
